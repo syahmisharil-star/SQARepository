@@ -43,7 +43,7 @@ jobs:
     needs: [test]
     steps:
       - name: Discord Notification
-        uses: tsickert/discord-webhook@v5
+        uses: tsickert/discord-webhook@v5.3.0
         with:
            discord-webhook-url: ${{ secrets.WEBHOOKS_URL }}
            content: "✅ Deployment successful by Sharil"
