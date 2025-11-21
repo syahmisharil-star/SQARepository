@@ -49,7 +49,6 @@ jobs:
            content: "✅ Deployment successful by Sharil"
            username: "GitHub Actions"
            avatar_url: "https://discord.com/api/webhooks/1441330277279469578/DsysO-Ce_53G5q8Nw8-PBZi9M5P4Hd9SHdcfDa8qEKrGCmqwVZQDPN8j8y8V3WYfaQl0"
-
       # TODO: Add Discord notification steps here
       # Hint: Use a Discord webhook action or curl
 
